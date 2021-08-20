@@ -1,6 +1,6 @@
 <h1>Welcome to my page 👋</h1>
 <p>I'm ferdiansyah, Frontend Developer from indonesia. I have hobby learning programming languanges.</p>
-<p><a href="https://portfolio-one-alpha-72.vercel.app/">Click to view my portofolio website</a></p>
+<p><a href="https://portfolio-one-alpha-72.vercel.app/">Click to view my portofolio website and to get more information</a></p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
@@ -41,7 +41,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/ferdiansyah0611/ui-component"><b>UI Component</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
@@ -62,10 +62,17 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ferdiansyah0611/clone-spotify"><b>Spotify Clone</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>How To Contact Me</h3>
 <div>
-  <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/62895607486361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
