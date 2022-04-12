@@ -19,9 +19,10 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 <h3>Statistic</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=ferdiansyah0611&theme=blue-green"/>
-<h3>Languange</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdiansyah0611&theme=blue-green"/>
+</div>
 <h3>My Open Source Project</h3>
 <table>
   <thead align="center">
@@ -35,6 +36,20 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/ferdiansyah0611/tools-web"><b>Tools Web - Code Generator CLI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/tools-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/tools-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/tools-web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/tools-web?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ferdiansyah0611/blaze-script"><b>Blaze Script - Simple Single Page Application (Vite+Typescript)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ferdiansyah0611/system_information_school"><b>System Information School</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
@@ -42,21 +57,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ferdiansyah0611/ui-component"><b>UI Component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/ui-component?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ferdiansyah0611/contact-app"><b>Contact Web App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/contact-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/contact-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/contact-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/contact-app?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ferdiansyah0611/react-router-toolkit-starter"><b>Starter React Router Toolkit and Shell</b></a></td>
+      <td><a href="https://github.com/ferdiansyah0611/react-router-toolkit-starter"><b>Starter React Router Toolkit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
@@ -69,17 +70,10 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ferdiansyah0611/clone-spotify"><b>Spotify Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/clone-spotify?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 <h3>How To Contact Me</h3>
 <div>
   <a href="https://wa.me/62895607486361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ferdif9996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
