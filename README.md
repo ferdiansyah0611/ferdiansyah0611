@@ -1,6 +1,6 @@
 <h1>Welcome to my page 👋</h1>
 <p>I'm ferdiansyah, Frontend Developer from indonesia. I have hobby learning programming languanges.</p>
-<p><a href="https://ferdiansyah.web.app/">Click to view my portofolio website and to get more information</a></p>
+<p><a href="https://ferdiansyah.web.app/">Click to view my portofolio website and to get more information</a> <a href="https://ferdiansyah-blog.herokuapp.com">or check my blog</a></p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
