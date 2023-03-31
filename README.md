@@ -63,20 +63,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/system_information_school?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ferdiansyah0611/react-router-toolkit-starter"><b>Starter React Router Toolkit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/react-router-toolkit-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ferdiansyah0611/starterkit-ci4-react"><b>Starter Codeigniter 4 React Js</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/starterkit-ci4-react?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 <h3>How To Contact Me</h3>
