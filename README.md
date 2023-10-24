@@ -1,6 +1,6 @@
-<h1>Welcome to my page 👋</h1>
-<p>I'm ferdiansyah, Frontend Developer from indonesia. I have hobby learning programming languanges.</p>
-<p>
+<h1 align="center">Welcome to my page 👋</h1>
+<p align="center">I'm ferdiansyah, Frontend Developer from indonesia. I have hobby learning programming languanges.</p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00" />
@@ -17,15 +17,17 @@
   <img alt="Materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
-<h3>Statistic</h3>
+<h3 align="center">Statistic</h3>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyah0611&theme=blue-green"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdiansyah0611&theme=blue-green"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyah0611&theme=blue-green"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ferdiansyah0611&theme=blue-green"/>
+  </p>
 </div>
-<h3>My Open Source Project</h3>
-<table>
+<h3 align="center">My Open Source Project</h3>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -66,8 +68,8 @@
     </tr>
   </tbody>
 </table>
-<h3>How To Contact Me</h3>
-<div>
+<h3 align="center">How To Contact Me</h3>
+<div align="center">
   <a href="https://wa.me/62895607486361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="mailto:ferdif9996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
