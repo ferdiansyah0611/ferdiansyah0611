@@ -20,6 +20,8 @@
 <h3 align="center">Statistic</h3>
 <div>
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ferdiansyah0611&style=flat-square&color=brightgreen"/>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyah0611&theme=blue-green"/>
