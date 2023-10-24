@@ -18,8 +18,10 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 <h3>Statistic</h3>
-<div style="display: flex;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyah0611&theme=blue-green"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ferdiansyah0611&theme=blue-green"/>
 </div>
 <h3>My Open Source Project</h3>
@@ -42,14 +44,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/tools-web?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ferdiansyah0611/finae-x"><b>CLI Tools for Deno</b></a></td>
+      <td><a href="https://github.com/ferdiansyah0611/finae-x"><b>FinaeX - CLI Tools for Deno</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/finae-x?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/finae-x?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/finae-x?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ferdiansyah0611/finae-x?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ferdiansyah0611/blaze-script"><b>Blaze Script - Simple Single Page Application (Vite+Typescript)</b></a></td>
+      <td><a href="https://github.com/ferdiansyah0611/blaze-script"><b>Blaze Script - Simple SPA</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ferdiansyah0611/blaze-script?style=flat-square&labelColor=343b41"/></td>
