@@ -21,6 +21,9 @@
 <div>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ferdiansyah0611&style=flat-square&color=brightgreen"/>
+    <a href="https://www.youtube.com/channel/UC4C0_6q9JXVYSC1jSgaZ17A">
+      <img src="https://img.shields.io/youtube/channel/views/UC4C0_6q9JXVYSC1jSgaZ17A"/>
+    </a>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyah0611&theme=blue-green"/>
     <br/>
